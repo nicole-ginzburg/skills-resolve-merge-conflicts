@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations nicole-ginzburg! 🎉
+# 🎉 Congratulations nicki-ginzburg! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
